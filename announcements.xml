@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE announcements SYSTEM "announcements.dtd">
+<announcements>
+    <announcement>
+        <id>1</id>
+        <title>Welcome to CampusHub 2026 Platform</title>
+        <content>Official campus portal launched for event registrations, workshops, sports, and student communities.</content>
+        <date>2026-08-20 08:00:00</date>
+        <author>admin@campushub.lk</author>
+    </announcement>
+    <announcement>
+        <id>2</id>
+        <title>Annual General Meeting - Student Clubs</title>
+        <content>All student club members are invited to the AGM on Friday at 4 PM in the Main Auditorium.</content>
+        <date>2026-08-24 10:00:00</date>
+        <author>admin@campushub.lk</author>
+    </announcement>
+    <announcement>
+        <id>3</id>
+        <title>Inter-Campus Sports Tournament Registration</title>
+        <content>Sports activities and cricket squad registrations are now open online via CampusHub.</content>
+        <date>2026-08-25 09:00:00</date>
+        <author>admin@campushub.lk</author>
+    </announcement>
+</announcements>

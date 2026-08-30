@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.brand-title {
+    font-weight: 800;
+    letter-spacing: -0.5px;
+}
+
+.carousel-item img {
+    height: 380px;
+    object-fit: cover;
+}
+
+.event-card-img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.profile-avatar-lg {
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.profile-avatar-sm {
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.media-card-img {
+    height: 180px;
+    object-fit: cover;
+}
+
+@media (min-width: 992px) {
+    .col-lg-2-4 {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+}

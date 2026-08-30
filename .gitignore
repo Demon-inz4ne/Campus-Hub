@@ -1,0 +1,15 @@
+# Personal uploads & dynamic media
+resources/profile_images/*
+!resources/profile_images/default.png
+resources/attachments/*
+resources/media_files/*
+
+# Database backup / workbench backup files
+*.mwb.bak
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
